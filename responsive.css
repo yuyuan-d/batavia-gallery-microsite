@@ -1,0 +1,80 @@
+@media screen and (max-width: 768px) {
+
+    .container{
+        max-width: 690px;
+    }
+
+.tag h1{
+    font-size: 3.25rem;
+}
+
+.tag h2{
+    font-size: 1.8rem;
+}
+
+.history{
+    padding-top: 18%;
+    padding-left: 34%;
+    padding-right: 8%;
+}
+
+.history h3{
+    font-size: 1.8rem;
+}
+
+
+.visit h2{
+    padding-right: 0%;
+    
+}
+}
+
+
+@media screen and (max-width: 576px) {
+
+    
+    .history{
+        background-image: url(images/section1_bg_mobile.jpg);
+        background-color: none;
+        padding-top: 60%;
+        padding-right: 7%;
+        padding-left: 7%;
+        padding-bottom: 0%;
+    }
+    
+    .history h3{
+        font-size: 2rem;
+    }
+    
+    .bg3{
+        background-image: url(images/section2_bg_mobile.jpg);
+        width: 100%;
+        height: 50vh;
+    
+    }
+    
+    .visit-section .col-md-6{
+        width: 100%;
+    
+    }
+    
+    .visit {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+    
+    .visit h2 {
+        font-size: 2.5rem;
+        padding-left: 0%;
+        padding-right: 0%;
+        padding-bottom: 1rem;
+    }
+    
+    .visit p {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+
+    }
